@@ -1,0 +1,49 @@
+[{
+		"id": 1,
+		"title": "producto prueba1 modificado",
+		"description": "Este es un producto prueba actualizado",
+		"price": 200,
+		"thumbnails": "sin imagen",
+		"stock": 200,
+		"code": "abc121"
+	},
+	{
+		"id": 2,
+		"title": "producto prueba2",
+		"description": "Este es un producto prueba2",
+		"price": 300,
+		"thumbnails": "sin imagen",
+		"stock": 200,
+		"code": "abc122"
+	},
+	{
+		"id": 4,
+		"title": "producto prueba4",
+		"description": "Este es un producto prueba4",
+		"price": 300,
+		"thumbnails": "sin imagen",
+		"stock": 200,
+		"code": "abc124",
+		"status": true
+	},
+	{
+		"id": 5,
+		"title": "producto nuevo",
+		"description": "cargado por post",
+		"price": 50,
+		"thumbnails": "sin imagen",
+		"stock": 200,
+		"code": "abc125",
+		"status": true
+	},
+	{
+		"id": 6,
+		"title": "producto 6",
+		"description": "cargado por post pare reenvio TP",
+		"price": 50,
+		"thumbnails": "sin imagen",
+		"stock": 200,
+		"code": "abc126",
+		"status": true
+	}
+]
